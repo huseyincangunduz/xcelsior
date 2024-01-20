@@ -1,6 +1,6 @@
 {
   "name": "@morphosium/xcelsior",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "CSS library helps interface like native application",
   "main": "index.js",
   "scripts": {
