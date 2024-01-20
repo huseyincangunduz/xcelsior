@@ -23,14 +23,14 @@
   "dependencies": {},
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Morphosium/xcelsior.git"
+    "url": "git+https://github.com/huseyincangunduz/xcelsior.git"
   },
   "keywords": [
     "frontend",
     "ui"
   ],
   "bugs": {
-    "url": "https://github.com/Morphosium/xcelsior/issues"
+    "url": "https://github.com/huseyincangunduz/xcelsior/issues"
   },
-  "homepage": "https://github.com/Morphosium/xcelsior#readme"
+  "homepage": "https://github.com/huseyincangunduz/xcelsior#readme"
 }
